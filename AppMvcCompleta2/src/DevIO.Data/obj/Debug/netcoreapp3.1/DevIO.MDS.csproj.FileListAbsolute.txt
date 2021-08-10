@@ -1,0 +1,11 @@
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.MDS.deps.json
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.MDS.dll
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.MDS.pdb
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.MDS.csprojAssemblyReference.cache
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.MDS.AssemblyInfoInputs.cache
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.MDS.AssemblyInfo.cs
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.MDS.csproj.CopyComplete
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.MDS.dll
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.MDS.pdb

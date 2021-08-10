@@ -1,0 +1,9 @@
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.deps.json
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Guilherme Sanches\source\repos\AppMvcCompleta2\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.pdb
